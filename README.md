@@ -7,3 +7,12 @@ Body:
 * 3. Úkol 5/5
 
 Druhý úkol přidávám spíše na inspiraci jak se to nemá dělat. V našem ročníku z něj nikdo neměl plný počet, průměr byl někdo okolo dvou bodů. 
+
+### 1. úkol
+![1. úkol ](histogram1.png)
+
+### 2. úkol
+![2. úkol ](histogram2.png)
+
+### 3. úkol
+![3. úkol ](histogram3.png)
