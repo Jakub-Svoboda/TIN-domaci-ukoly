@@ -6,7 +6,7 @@ Body:
 * 2. Úkol 2.7/5 !
 * 3. Úkol 5/5
 
-Druhý úkol přidávám spíše na inspiraci jak se to nemá dělat. V našem ročníku z něj nikdo neměl plný počet, průměr byl někdo okolo dvou bodů. 
+Druhý úkol přidávám spíše na inspiraci jak se to nemá dělat. V našem ročníku z něj nikdo neměl plný počet, průměr byl někde okolo dvou bodů. 
 
 Třetí úkol se nepočítal do zápočtu, proto jej hodně lidí neodevzdalo, nebo jen s některými příklady vypočítanými na minimum u zkoušky. Jinak byl výrazně jednodušší než druhý.
 ### 1. úkol
